@@ -6,7 +6,7 @@
     - QQ: 1203952894
     - Email: cola0817@gmail.com
 
-[![cola0817's GitHub stats](https://github-readme-stats.vercel.app/api?username=cola0817&cache_seconds=7200&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/lhing17)
+[![cola0817's GitHub stats](https://github-readme-stats.vercel.app/api?username=cola0817&cache_seconds=7200&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/cola0817)
 [![cola0817's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cola0817&layout=compact)]((https://github.com/cola0817))
 
 <!---
